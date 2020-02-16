@@ -2,7 +2,7 @@
 Uses autocorrelation to predict stock price fluctuations based on previous data. 
 
 ## How to Use
-You must obtain an API key from Alpha Vantage to make requests. The program will NOT work with the current demo API key. The code can also be modified to read already downloaded csv files with stock data. Run main.py and the orange line in the pop-up graph window will be the predicted stock price direction:
+You must obtain an API key from Alpha Vantage to make requests. The program will NOT work with the current "demo" API key. The code can also be modified to read already downloaded csv files with stock data. Run main.py and the orange line in the pop-up graph window will be the predicted stock price direction:
 ```
 python main.py
 ```
